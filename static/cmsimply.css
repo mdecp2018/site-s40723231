@@ -1,14 +1,15 @@
 .container {
   position: relative;
+  background-image:url(https://attach.setn.com/newsimages/2017/09/19/1060426-XXL.jpg);
 }
 header{
-  background: #ccc;
+  background-image:url(https://attach.setn.com/newsimages/2017/09/19/1060426-XXL.jpg);
   padding: 20px;
 }
 confmenu
 {
 	#width: 800px;
-	background: #333;
+	background-image:url(https://attach.setn.com/newsimages/2017/09/19/1060426-XXL.jpg);
 	margin-bottom: 10px;
 }
 confmenu ul
@@ -197,10 +198,12 @@ position: fixed;
 bottom: 10px;
 left: 10px;
 height: 70px;
-background-color: white;
+background-color: red;
 width: 195px;
+background-image:url(https://attach.setn.com/newsimages/2017/09/19/1060426-XXL.jpg);
 }
 body {
   margin-bottom: 120px;
+  background-image:url(https://attach.setn.com/newsimages/2017/09/19/1060426-XXL.jpg);
 }
 
